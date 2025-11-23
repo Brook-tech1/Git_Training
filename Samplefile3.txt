@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello Tomatoes
 
+=======
+This is comparison lecture, Change in file 2.
+This is donald trump.
+>>>>>>> main
