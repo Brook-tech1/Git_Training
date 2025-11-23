@@ -6,3 +6,4 @@ Hello dostoon.
 
 This is comparison lecture
 
+Stash lecture, Change in file 2
